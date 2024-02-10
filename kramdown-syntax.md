@@ -53,18 +53,14 @@ and another term
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|----
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
+| Foot1   | Foot2   | Foot3   |
 
 ## Links and Images
 A [link](http://kramdown.gettalong.org "hp")
 to the homepage.
 
 ## Inline Attributes
-This is *red*{: style="color: red"}.
 
 *[kramdown_quick_reference](https://kramdown.gettalong.org/quickref.html)*
