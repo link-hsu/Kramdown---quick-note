@@ -1,8 +1,8 @@
 # kramdown
----
+
 ## Header
 ## This is header
----
+
 ## Quoteblock
 > This is quoteblock
 > >Quoteblock can be used nested
@@ -13,7 +13,7 @@
 > quoteblock for multi-line
 line two
 line three
----
+
 ## Code clock
 sample for code block
     code block here
@@ -22,7 +22,7 @@ sample for code block
 def what
 end
 ~~~
----
+
 ## Lists
 1. this is ul>li-1
 2. this is ul>li-2
@@ -38,7 +38,7 @@ This is a paragraph.
 * Item one
 + Item two
 - Item three
----
+
 ## Definition lists
 term
 : definition
@@ -47,7 +47,7 @@ term
 another term
 and another term
 : and a definition for the term
----
+
 ## Tables
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -59,11 +59,11 @@ and another term
 |=====
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
----
+
 ## Links and Images
 A [link](http://kramdown.gettalong.org "hp")
 to the homepage.
----
+
 ## Inline Attributes
 This is *red*{: style="color: red"}.
 
